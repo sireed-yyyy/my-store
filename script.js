@@ -1,7 +1,7 @@
 const products = [
   {
-    name: "Infinix Hot 40",
-    price: "KES 15,000",
+    name: "Samsung Galaxy A05, 6.7", 64GB + 4GB RAM (Dual SIM), 5000mAh, Black, (2YRs WRTY)",
+    price: "KES 13,187",
     shop: "Jumia",
     link: "https://www.jumia.co.ke",
     image: "assets/infinix.jpg"
