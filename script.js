@@ -8,9 +8,9 @@ const products = [
   },
   {
     name: "Samsung Galaxy A15",
-    price: "KES 23,000",
+    price: "KES 23,680",
     shop: "Kilimall",
-    link: "https://www.kilimall.co.ke",
+    link: "http://k.kili.co/164jw",
     image: "assets/samsung.jpg"
   },
   {
