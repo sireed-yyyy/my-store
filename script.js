@@ -6,6 +6,20 @@ const products = [
     link: "https://www.jumia.co.ke",
     image: "assets/infinix.jpg"
   },
+    {
+    name: "Samsung Galaxy A16 128GB+4GB 6.7",
+    price: "KES 16,399",
+    shop: "Kilimall",
+    link: "http://k.kili.co/17hjp",
+    image: "assets/samsung.jpg"
+  },
+  {
+    name: "Samsung Galaxy A26 5G 256GB+8GB 6.7",
+    price: "KES 36,899",
+    shop: "Kilimall",
+    link: "http://k.kili.co/1r9ji",
+    image: "assets/samsung.jpg"
+  },
   {
     name: "Samsung Galaxy A15",
     price: "KES 23,680",
